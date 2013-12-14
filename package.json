@@ -12,6 +12,7 @@
   "author": "Chris Marlow",
   "license": "BSD-2-Clause",
   "devDependencies": {
-    "grunt": "~0.4.2"
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.7.2"
   }
 }
