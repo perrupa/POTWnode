@@ -1,0 +1,17 @@
+{
+  "name": "POTW",
+  "version": "0.0.0",
+  "description": "A Pick of the Week web application for sharing and voting on your favourite song of the week with your friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music"
+  ],
+  "author": "Chris Marlow",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
+}
